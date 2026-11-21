@@ -1,0 +1,22 @@
+python/sglang/kernels/jit/csrc/elementwise/silu_and_mul_post_quant_mxfp4.cuh
+  s_b5ff967c7393ad::t_95d933b5b6a58d 359-362
+python/sglang/test/kernels/test_silu_and_mul_post_quant_mxfp4.py
+  s_b5ff967c7393ad::t_a25eb980b47868 84-86
+  s_b5ff967c7393ad::t_95d933b5b6a58d 74-83,87-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dd000ed64ad2beb04ad6a9372dd6f4ade3b06a47",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
