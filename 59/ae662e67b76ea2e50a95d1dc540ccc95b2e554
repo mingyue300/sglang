@@ -1,0 +1,21 @@
+python/sglang/srt/layers/moe/moe_runner/ppu_deepgemm_moe.py
+  s_b5ff967c7393ad::t_bc48cf512aa179 989
+test/registered/unit/layers/moe/test_ppu_kimi_k3_moe.py
+  s_b5ff967c7393ad::t_bc48cf512aa179 236,238,316-318
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "59ae662e67b76ea2e50a95d1dc540ccc95b2e554",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
