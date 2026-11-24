@@ -1,0 +1,32 @@
+python/sglang/srt/layers/moe/moe_runner/ppu_deepgemm_moe.py
+  s_b5ff967c7393ad::t_42366840f8c345 986-988,990
+  s_b5ff967c7393ad::t_bc48cf512aa179 989
+test/registered/unit/layers/moe/test_ppu_kimi_k3_moe.py
+  s_b5ff967c7393ad::t_bc48cf512aa179 316-318
+  s_b5ff967c7393ad::t_318d9b85aa6907 319
+python/sglang/test/kernels/test_silu_and_mul_post_quant_mxfp4.py
+  s_b5ff967c7393ad::t_a25eb980b47868 84-86
+  s_b5ff967c7393ad::t_d34296d6554396 61-73,90-118
+  s_b5ff967c7393ad::t_95d933b5b6a58d 74-83,87-89
+python/sglang/kernels/jit/csrc/elementwise/silu_and_mul_post_quant_mxfp4.cuh
+  s_b5ff967c7393ad::t_96cca67ce7967e 44,128,160-162,168,213,342,348-349,358,388,394,397
+  s_b5ff967c7393ad::t_95d933b5b6a58d 359-362
+python/sglang/kernels/ops/elementwise/silu_mul_quant.py
+  s_b5ff967c7393ad::t_b2862d15055712 25,29,32,37,46,79-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "023e1cd48d76cf85581bb31341581621afe3a4d2",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
