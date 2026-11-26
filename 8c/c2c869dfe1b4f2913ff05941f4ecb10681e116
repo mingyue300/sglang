@@ -13,6 +13,7 @@ test/registered/unit/layers/moe/test_ppu_kimi_k3_moe.py
 test/registered/kernels/ops/activation/test_silu_and_mul_post_quant_mxfp4.py
   s_b5ff967c7393ad::t_8d201cbf8b7683 9-10,64-87,92-103,105-131
   s_b5ff967c7393ad::t_cd8e13ec29bcb4 88-90
+  s_b5ff967c7393ad::t_f51170e694d0ef 11,91,104
 ---
 {
   "schema_version": "authorship/3.0.0",
